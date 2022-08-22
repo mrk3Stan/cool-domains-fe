@@ -25,5 +25,6 @@ yarn-error.log*
 
 package-lock.json
 
-!/src/App.js
-!/src/index.js
+!/src/*
+!/src/utils/*
+!/src/components/LoadingIndicator/*
